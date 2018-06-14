@@ -17,7 +17,7 @@ while True: #Method derived from class to do preliminary stock symbol check. Onl
         break
     else:
         symbols.append(symbol)
-
+#Leaving a note for update
 
 #
 for i in symbols:  #This for loop will run for each individual stock in the list
